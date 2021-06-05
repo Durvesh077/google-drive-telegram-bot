@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1810520988:AAGcPNxW_qGVtL68GC6K9ZIY2A3BDN5GjpY"
+    APP_ID = "1406638"
+    API_HASH = "d32e568de7a573e09a0f373ad5bd9aef"
+    DATABASE_URL = "postgres://sswydvlzqplwxs:17ede602cf6d4f82d861596ea4593552d6e17cd60f9e86ab43647f6fa73a58e0@ec2-54-145-224-156.compute-1.amazonaws.com:5432/d7sbvh2aklc665"
+    SUDO_USERS = "687562558" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/moviesandseries4udrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "616671499347-o3iqqq8r5i6jrvrbs3g7iah4q7bk878n.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "7qJt51XCzDGU0YfcrOhsSpRx"
 
 
 class BotCommands:
